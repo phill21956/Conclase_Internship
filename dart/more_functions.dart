@@ -7,3 +7,4 @@ printSomething(printThings, 45);
 void printSomething(void Function (Object)printer, Object things ){
   printer(things);
 }
+

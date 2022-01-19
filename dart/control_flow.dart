@@ -1,5 +1,5 @@
 void main(){
-int score = 101;
+int score = 70;
 
   if(score >= 70 && score <=100){
     print("You got an A!!");
